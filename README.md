@@ -1,4 +1,4 @@
-Airline Ticket Management System is a software application that helps users book, cancel, and manage flight tickets online or offline. It also allows admins to manage flights, schedules, and passenger data
+Airline Ticket Management System is a software application that helps users book, cancel, and manage flight tickets .
 
 
 Home Page 
